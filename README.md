@@ -1,6 +1,6 @@
 # Arduino Room Environment Monitoring
 
-Projekt: Jednostavna meteorološka stanica na Arduinu sa LCD ekranom, DHT11 senzorom, rotary encoderom i serijskim logovanjem podataka.
+Jednostavna meteorološka stanica na Arduinu sa LCD ekranom, DHT11 senzorom, rotary encoderom i serijskim logovanjem podataka.
 
 ## Sadržaj
 
@@ -9,4 +9,4 @@ Projekt: Jednostavna meteorološka stanica na Arduinu sa LCD ekranom, DHT11 senz
 - RoomEnivronmentMonitoring.jpg — Šema povezivanja 
 
 ## Slika spoja
-![Približna slika spoja, nedostaje rotary encoder](RoomEnivronmentMonitoring.jpg)
+![Približna slika spoja](RoomEnivronmentMonitoring.jpg)
