@@ -6,7 +6,7 @@ Projekt: Jednostavna meteorološka stanica na Arduinu sa LCD ekranom, DHT11 senz
 
 - RoomEnivronmentMonitoringLogger.ino — Arduino kod za stanicu
 - arduino_logger.py — Python skripta za serijsko logovanje podataka u CSV
-- requirements.txt — Python zavisnosti
 - RoomEnivronmentMonitoring.jpg — Šema povezivanja 
 
 ## Slika spoja
+![Približna slika spoja, nedostaje rotary encoder](RoomEnivronmentMonitoring.jpg)
