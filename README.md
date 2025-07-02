@@ -1,6 +1,6 @@
 # Arduino Room Environment Monitoring
 
-Jednostavna meteorološka stanica na Arduinu sa LCD ekranom, DHT11 senzorom, rotacijskim enkoderom i serijskim logovanjem podataka.
+Meteorološka stanica na Arduinu sa LCD ekranom, DHT11 senzorom, rotacijskim enkoderom i serijskim logovanjem podataka.
 
 ## Sadržaj
 
